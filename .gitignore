@@ -2,4 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/VBWinForm/.vs/VBWinForm/v15/Server/sqlite3
+/VBWinForm/.vs
+/VBWinForm/VBWinForm/bin
+/VBWinForm/VBWinForm/obj
