@@ -60,6 +60,7 @@
         Y = Val(TextBox2.Text)
         S = X - Y
         Label3.Text = X & "-" & Y & "=" & S
+
     End Sub
 
     Private Sub Button7_Click(sender As Object, e As EventArgs) Handles Button7.Click
